@@ -1,0 +1,164 @@
+1640873271105	geckodriver	INFO	Listening on 127.0.0.1:49683
+1640873271111	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilesBx7nX"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640873272097	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesBx7nX/search.json.mozlz4", (void 0)))
+1640873273905	Marionette	INFO	Listening on port 37943
+1640873273957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640873278112	Marionette	INFO	Stopped listening on port 37943
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640873285572	geckodriver	INFO	Listening on 127.0.0.1:39213
+1640873285579	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileyaoRLS"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640873286600	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyaoRLS/search.json.mozlz4", (void 0)))
+1640873288364	Marionette	INFO	Listening on port 35201
+1640873288421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640873294152	Marionette	INFO	Stopped listening on port 35201
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640873573661	geckodriver	INFO	Listening on 127.0.0.1:58983
+1640873573669	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileVbTosc"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640873574668	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVbTosc/search.json.mozlz4", (void 0)))
+1640873576065	Marionette	INFO	Listening on port 35445
+1640873576109	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+1640873593958	Marionette	INFO	Stopped listening on port 35445
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1640873952031	geckodriver	INFO	Listening on 127.0.0.1:55787
+1640873952038	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileCRSqEp"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640873953130	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCRSqEp/search.json.mozlz4", (void 0)))
+1640873955101	Marionette	INFO	Listening on port 39679
+1640873955187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+1640873964085	Marionette	INFO	Stopped listening on port 39679
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640874039472	geckodriver	INFO	Listening on 127.0.0.1:57213
+1640874039479	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilephEpaC"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640874040516	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilephEpaC/search.json.mozlz4", (void 0)))
+1640874042197	Marionette	INFO	Listening on port 41429
+1640874042308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/register.3ac7eaa92c158daa5137.js, line 1: unreachable code after return statement
+1640874365740	Marionette	INFO	Stopped listening on port 41429
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640874370466	geckodriver	INFO	Listening on 127.0.0.1:51397
+1640874370473	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile5AkHK8"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640874371499	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5AkHK8/search.json.mozlz4", (void 0)))
+1640874373194	Marionette	INFO	Listening on port 45649
+1640874373300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/register.3ac7eaa92c158daa5137.js, line 1: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://www.redditstatic.com/accountmanager/vendor.4edfac426c2c4357e34e.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://www.redditstatic.com/accountmanager/theme.bf3c4fed32b8d285e588.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://www.redditstatic.com/accountmanager/register.bcf7192ca2e5ad02fad8.css without a browsingContextID set
+1640874605001	geckodriver	INFO	Listening on 127.0.0.1:42959
+1640874605009	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileJs0eqW"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640874606038	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJs0eqW/search.json.mozlz4", (void 0)))
+1640874607848	Marionette	INFO	Listening on port 37305
+1640874607940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640874610650	Marionette	INFO	Stopped listening on port 45649
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://www.redditstatic.com/accountmanager/register.3ac7eaa92c158daa5137.js, line 1: unreachable code after return statement
+1640874693458	geckodriver	INFO	Listening on 127.0.0.1:34773
+1640874693464	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile6SLtiK"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640874694561	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6SLtiK/search.json.mozlz4", (void 0)))
+1640874696350	Marionette	INFO	Listening on port 38905
+1640874696422	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/register.3ac7eaa92c158daa5137.js, line 1: unreachable code after return statement
+1640874717204	Marionette	INFO	Stopped listening on port 37305
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://www.redditstatic.com/accountmanager/vendor.4edfac426c2c4357e34e.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://www.redditstatic.com/accountmanager/theme.bf3c4fed32b8d285e588.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://www.redditstatic.com/accountmanager/register.bcf7192ca2e5ad02fad8.css without a browsingContextID set
+1640874792515	geckodriver	INFO	Listening on 127.0.0.1:53069
+1640874792522	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileOtayKE"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640874793603	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOtayKE/search.json.mozlz4", (void 0)))
+1640874795381	Marionette	INFO	Listening on port 35347
+1640874795469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640874797840	Marionette	INFO	Stopped listening on port 38905
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/register.3ac7eaa92c158daa5137.js, line 1: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://www.redditstatic.com/accountmanager/vendor.4edfac426c2c4357e34e.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://www.redditstatic.com/accountmanager/theme.bf3c4fed32b8d285e588.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://www.redditstatic.com/accountmanager/register.bcf7192ca2e5ad02fad8.css without a browsingContextID set
+1640875111552	geckodriver	INFO	Listening on 127.0.0.1:51221
+1640875111560	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiley6EEVM"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640875112610	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiley6EEVM/search.json.mozlz4", (void 0)))
+1640875114384	Marionette	INFO	Listening on port 36141
+1640875114494	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/register.3ac7eaa92c158daa5137.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1640875208541	Marionette	INFO	Stopped listening on port 36141
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640875337814	geckodriver	INFO	Listening on 127.0.0.1:40263
+1640875337824	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileNp9OUc"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640875338933	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNp9OUc/search.json.mozlz4", (void 0)))
+1640875341124	Marionette	INFO	Listening on port 32993
+1640875341193	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/register.3ac7eaa92c158daa5137.js, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://accounts.google.com/ServiceLogin?faa=1&rip=1&continue=https://accounts.google.com/gsi/select?client_id%3D705819728788-b2c1kcs7tst3b7ghv7at0hkqmtc68ckl.apps.googleusercontent.com%26auto_select%3Dfalse%26ux_mode%3Dpopup%26ui_mode%3Dcard%26as%3Dh09R6e%252BIuzGcIaKdtDjrJg%26channel_id%3Dab32b5d0f4e7796a389bb6fa7352a3afd8e89ec85b6fc20f644c649da423e6ca%26origin%3Dhttps://www.reddit.com line 1 > eval line 7632 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640875486325	Marionette	INFO	Stopped listening on port 32993
+1640875487175	Marionette	INFO	Stopped listening on port 35347
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640876996039	geckodriver	INFO	Listening on 127.0.0.1:41439
+1640876996047	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileY1zv9X"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640876997109	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileY1zv9X/search.json.mozlz4", (void 0)))
+1640876998683	Marionette	INFO	Listening on port 34103
+1640876998772	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.2e19bfdcbac4b3db012d.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/register.3ac7eaa92c158daa5137.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1640992910452	Marionette	INFO	Stopped listening on port 34103
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
